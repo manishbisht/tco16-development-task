@@ -1,5 +1,5 @@
-# tco16-development-task
-TECHNOLOGY MASHUP (TCO16 INDIA REGIONAL) CODE - Winner
+# tco16-development-task (Winner)
+TECHNOLOGY MASHUP (TCO16 INDIA REGIONAL) CODE
 
 #Challenge Link
 https://www.topcoder.com/challenge-details/30054834/?type=develop&noncache=true
