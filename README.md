@@ -25,3 +25,9 @@ Here is the list of use cases:
 - Technology/Library/Framework can be anything which avoids reinventing the wheel (e.g. video player library, charting library etc) i.e. which either prevent coding something which is already there in market or at least allow better code maintenance for support engineers.
 
 Further, there is no restriction on technologies, you can choose a backend technology e.g. some REST API, caching library etc or it can be a front end technology e.g. video player library, charting library etc.
+
+#Snapshots
+
+![alt tag](http://snapshots/001.png)
+
+![alt tag](http://snapshots/002.png)
