@@ -28,6 +28,6 @@ Further, there is no restriction on technologies, you can choose a backend techn
 
 #Snapshots
 
-![alt tag](http://snapshots/001.png)
+![alt tag](snapshots/001.png)
 
-![alt tag](http://snapshots/002.png)
+![alt tag](snapshots/002.png)
