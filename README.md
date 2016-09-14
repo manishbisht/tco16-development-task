@@ -1,3 +1,11 @@
+#Gallery
+
+![alt tag](photos/DSC_0239_2.jpg)
+
+![alt tag](photos/DSC_0035.jpg)
+
+![alt tag](photos/13886502_10154400282954570_8456832114586703145_n.png)
+
 # tco16-development-task (Winner)
 TECHNOLOGY MASHUP (TCO16 INDIA REGIONAL) CODE
 
